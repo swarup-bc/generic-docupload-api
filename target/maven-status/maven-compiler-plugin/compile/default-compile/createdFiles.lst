@@ -1,0 +1,7 @@
+com\urs\du\controller\DocumentUploadController.class
+com\urs\du\service\FileUploadServiceImpl.class
+com\urs\du\service\FileUploadService.class
+com\urs\du\config\SwaggerConfig.class
+com\urs\du\util\ApiGatewayService.class
+com\urs\du\DocumentUploadApplication.class
+com\urs\du\model\DocUploadStatusRequest.class
